@@ -1,0 +1,1 @@
+# Desarrollo-de-una-arquitectura-de-bajo-costo-para-un-laboratorio-remoto-de-motor-DC-del-GIESCV
